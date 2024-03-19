@@ -397,7 +397,7 @@ case "help":
 
 		      await loading ()
 
-let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
+let cap = `╭════〘 ICE_GPT_AI〙═⊷⏣
 ┃⭓╭──────────────┉◕
 ┃⬬│ 𝗢𝘄𝗻𝗲𝗿 :𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼
 ┃⭓│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
@@ -410,7 +410,7 @@ let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
 ┃⬬│
 ┃⭓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃⬬│▎▍▌▌▉▏▎▌▉▐▏▌
-┃⭓│ ⬬𝐃𝐑𝐄𝐗_𝐀𝐈⭓
+┃⭓│ ICE_GPT_AI⭓
 ┃⛥│
 ┃╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⏣
 ╰─────────────────⏣
@@ -530,7 +530,7 @@ let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
 ┃⭓│${prefix}𝐑𝐞𝐯𝐨𝐤𝐞.
 ┃⭓│
 ┃⭓╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⏣
-┃➠    ▒▓𝐌𝐚𝐝𝐞 𝐁𝐲 ꪶ ࣩࣩࣩࣩ᪵᪵᪵᪵᪵᪵᪵᪵ࣧࣧ𝐝𝐫𝐞𝐱ꪶ ࣩࣧࣧ▓▒ 
+┃➠    ▒▓𝐌ade by RELAEST_ICE🎱▓▒ 
 ╰════════════════⊷⏣`;
 
 if (menu === 'VIDEO') {
@@ -553,7 +553,7 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐃𝐑𝐄𝐗_𝐀𝐈`,
+                                title: `ICE_GPT_AI``
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./𝐃𝐑𝐄𝐗_𝐀𝐈.jpg'),
                                 sourceUrl: 'https://wa.me/254102074064?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
