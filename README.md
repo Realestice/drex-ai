@@ -24,7 +24,7 @@
 </p>
 
 
-***Made on Earth by 𝐃𝐫𝐞𝐱 𝐌𝐨𝐬𝐞***
+***Made on Earth by REALEST_ICE***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -40,7 +40,7 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@darkintent120/Pairing-drex9"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@brieone64/Pairing-ICEGPTAI"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
@@ -54,7 +54,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/drexmose/drex-ai/fork)
+- Fork this repo by tapping  [here](https://github.com/realestice/ICE_GPT_AI/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
